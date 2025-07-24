@@ -2,7 +2,7 @@
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 categories: [잡설]
-tag: 잡설
+tag: [잡설,그냥하는말,부자아빠]
 ---
 # 첫 글
 첫 글을 작성해본다.
