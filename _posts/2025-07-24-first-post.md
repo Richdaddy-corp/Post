@@ -1,7 +1,7 @@
 ---
 title: 첫글 작성해봅니다.
 tags: [blog,뻘글]
-categories: [BLOG]
+#categories: [BLOG]
 ---
 # 첫 글
 첫 글을 작성해본다.
