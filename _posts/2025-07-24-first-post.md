@@ -8,7 +8,10 @@ categories:
   - 잡설
   - 농담
 tags:
-  - Blog, jekyll, Github, Git
+  - Blog
+  - jekyll
+  - Github
+  - Git
 
 toc: true
 toc_sticky: true
