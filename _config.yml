@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Rich Daddy # the main title
 
-tagline: 부자가 되고픈 아빠 이야기 # it will display as the subtitle
+tagline: aaaa #부자가 되고픈 아빠 이야기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
