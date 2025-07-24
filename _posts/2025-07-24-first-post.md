@@ -4,8 +4,7 @@ description: 마크다운 들어보긴 했지만 사용해본적 없다. 잘 할
 #categories: [잡설]
 #tag: [잡설,그냥하는말,부자아빠]
 
-categories:
-  - [잡설,농담]
+categories: [잡설,농담]
 tags:
   - Blog
   - jekyll
