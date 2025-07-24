@@ -5,8 +5,7 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 #tag: [잡설,그냥하는말,부자아빠]
 
 categories:
-  - 잡설
-  - 농담
+  - [잡설,농담]
 tags:
   - Blog
   - jekyll
